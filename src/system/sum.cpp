@@ -1,4 +1,4 @@
 int main()
 {
-  float sum = sume+2;
+  float sum = sum+2;
 }
